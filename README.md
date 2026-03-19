@@ -1,2 +1,2 @@
 # Test_Practice
-Training
+Git repository for Training
